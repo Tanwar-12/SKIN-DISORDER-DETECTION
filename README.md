@@ -245,7 +245,7 @@ Perifollicular hyperkeratosis, follicular hemorrhage, and corkscrew hairs are we
 * Typical of eczema, the epidermis shows patchy spongiosis, nearly always with associated exocytosis of lymphocytes.
 
 
-
-
-
-
+### 𝐂𝐎𝐍𝐂𝐋𝐔𝐒𝐈𝐎𝐍:
+* ACCORDING TO OUR BUSINESS CASE PROBLEM, THE RECALL SCORE SHOULD BE HIGH, AND ACC. TO THE CLASSIFICATION REPORT, RECALL SCORE   IS 100% FOR 5 SKIN DISORDERS.
+* MEANS OVERALL OUR MODEL IS PERFORMING GOOD FOR THIS PROBLEM.
+* AND WE CAN CONCLUDE FROM OUR ACCURACY THAT OUR MODEL IS DOING 99% OF TRUE PREDICTIONS.
